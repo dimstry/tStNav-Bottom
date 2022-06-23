@@ -9,6 +9,7 @@
 * * jQuery
 ## 💙
 * active nya masih bug,,ntah lahh 😭😕
+* kenapa pas upload github icon nya gede bet dah 😕
 
 ## 🌐
 * Demo : https://dimstry.github.io/tStNav-Bottom/
