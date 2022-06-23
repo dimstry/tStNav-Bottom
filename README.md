@@ -11,4 +11,4 @@
 * active nya masih bug,,ntah lahh 😭😕
 
 ## 🌐
-* Demo :
+* Demo : https://dimstry.github.io/tStNav-Bottom/
