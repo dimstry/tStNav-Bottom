@@ -3,9 +3,8 @@
   padding: 0;
 }
 p {
- font-size:5px;
+  font-size: 13px;
 }
-
 .container {
   margin: 0.2em 0.3em;
   padding: 0.2em 0.3em;
@@ -51,7 +50,7 @@ p {
 }
 
 .nav__link {
-  width: 16%;
+  width: 80px;
   height: 100%;
   text-align: center;
   color: rgb(144,144,144);
