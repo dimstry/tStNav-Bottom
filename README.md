@@ -8,9 +8,9 @@
 * JavaScript
 * * jQuery
 ## 💙
-* active nya masih bug,,ntah lahh 😭😕
+* Yeyy dahh fix active nya
 
 ## 🌐
 * Demo : Coba di hp sendiri dah di upload github malah aneh 🙂
 * Nih image
-<img src="1.png" alt="" width="200px">
+<img src="1.png" alt="" width="250px">
